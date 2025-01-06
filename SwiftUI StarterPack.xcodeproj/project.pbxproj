@@ -11,6 +11,16 @@
 		7AD9AABF2D2C14A50095336E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AABE2D2C14A50095336E /* ContentView.swift */; };
 		7AD9AAC12D2C14A70095336E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AD9AAC02D2C14A70095336E /* Assets.xcassets */; };
 		7AD9AAC42D2C14A70095336E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AD9AAC32D2C14A70095336E /* Preview Assets.xcassets */; };
+		7AD9AACB2D2C16ED0095336E /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AACA2D2C16ED0095336E /* TextView.swift */; };
+		7AD9AACD2D2C19F50095336E /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AACC2D2C19F50095336E /* ShapeView.swift */; };
+		7AD9AACF2D2C27EF0095336E /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AACE2D2C27EF0095336E /* ColorView.swift */; };
+		7AD9AAD12D2C2A300095336E /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAD02D2C2A300095336E /* GradientView.swift */; };
+		7AD9AAD32D2C2CF00095336E /* IconsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAD22D2C2CF00095336E /* IconsView.swift */; };
+		7AD9AAD52D2C304D0095336E /* ImagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAD42D2C304D0095336E /* ImagesView.swift */; };
+		7AD9AAD72D2C34A50095336E /* FrameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAD62D2C34A50095336E /* FrameView.swift */; };
+		7AD9AAD92D2C4CE30095336E /* BackGroundAndOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAD82D2C4CE30095336E /* BackGroundAndOverlayView.swift */; };
+		7AD9AADB2D2C7E050095336E /* StacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AADA2D2C7E050095336E /* StacksView.swift */; };
+		7AD9AADD2D2C80DC0095336E /* PaddingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AADC2D2C80DC0095336E /* PaddingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +29,16 @@
 		7AD9AABE2D2C14A50095336E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7AD9AAC02D2C14A70095336E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7AD9AAC32D2C14A70095336E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7AD9AACA2D2C16ED0095336E /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
+		7AD9AACC2D2C19F50095336E /* ShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
+		7AD9AACE2D2C27EF0095336E /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
+		7AD9AAD02D2C2A300095336E /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
+		7AD9AAD22D2C2CF00095336E /* IconsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsView.swift; sourceTree = "<group>"; };
+		7AD9AAD42D2C304D0095336E /* ImagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesView.swift; sourceTree = "<group>"; };
+		7AD9AAD62D2C34A50095336E /* FrameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameView.swift; sourceTree = "<group>"; };
+		7AD9AAD82D2C4CE30095336E /* BackGroundAndOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackGroundAndOverlayView.swift; sourceTree = "<group>"; };
+		7AD9AADA2D2C7E050095336E /* StacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksView.swift; sourceTree = "<group>"; };
+		7AD9AADC2D2C80DC0095336E /* PaddingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +73,16 @@
 			children = (
 				7AD9AABC2D2C14A50095336E /* SwiftUI_StarterPackApp.swift */,
 				7AD9AABE2D2C14A50095336E /* ContentView.swift */,
+				7AD9AACA2D2C16ED0095336E /* TextView.swift */,
+				7AD9AACC2D2C19F50095336E /* ShapeView.swift */,
+				7AD9AACE2D2C27EF0095336E /* ColorView.swift */,
+				7AD9AAD02D2C2A300095336E /* GradientView.swift */,
+				7AD9AAD22D2C2CF00095336E /* IconsView.swift */,
+				7AD9AAD42D2C304D0095336E /* ImagesView.swift */,
+				7AD9AAD62D2C34A50095336E /* FrameView.swift */,
+				7AD9AAD82D2C4CE30095336E /* BackGroundAndOverlayView.swift */,
+				7AD9AADA2D2C7E050095336E /* StacksView.swift */,
+				7AD9AADC2D2C80DC0095336E /* PaddingView.swift */,
 				7AD9AAC02D2C14A70095336E /* Assets.xcassets */,
 				7AD9AAC22D2C14A70095336E /* Preview Content */,
 			);
@@ -137,8 +167,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7AD9AACB2D2C16ED0095336E /* TextView.swift in Sources */,
 				7AD9AABF2D2C14A50095336E /* ContentView.swift in Sources */,
+				7AD9AADD2D2C80DC0095336E /* PaddingView.swift in Sources */,
+				7AD9AAD12D2C2A300095336E /* GradientView.swift in Sources */,
+				7AD9AAD92D2C4CE30095336E /* BackGroundAndOverlayView.swift in Sources */,
+				7AD9AAD72D2C34A50095336E /* FrameView.swift in Sources */,
+				7AD9AACD2D2C19F50095336E /* ShapeView.swift in Sources */,
+				7AD9AAD52D2C304D0095336E /* ImagesView.swift in Sources */,
+				7AD9AADB2D2C7E050095336E /* StacksView.swift in Sources */,
 				7AD9AABD2D2C14A50095336E /* SwiftUI_StarterPackApp.swift in Sources */,
+				7AD9AAD32D2C2CF00095336E /* IconsView.swift in Sources */,
+				7AD9AACF2D2C27EF0095336E /* ColorView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
