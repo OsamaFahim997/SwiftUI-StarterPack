@@ -26,6 +26,9 @@
 		7AD9AAE32D2D4B710095336E /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAE22D2D4B710095336E /* GridView.swift */; };
 		7AD9AAE72D2D714B0095336E /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAE62D2D714B0095336E /* ButtonView.swift */; };
 		7AD9AAE92D2D78800095336E /* RefactorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAE82D2D78800095336E /* RefactorView.swift */; };
+		7AD9AAEB2D31CEEE0095336E /* BindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAEA2D31CEEE0095336E /* BindingView.swift */; };
+		7AD9AAED2D31D3920095336E /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAEC2D31D3920095336E /* AnimationView.swift */; };
+		7AD9AAEF2D32BF0A0095336E /* TransitionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD9AAEE2D32BF0A0095336E /* TransitionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +52,9 @@
 		7AD9AAE22D2D4B710095336E /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
 		7AD9AAE62D2D714B0095336E /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 		7AD9AAE82D2D78800095336E /* RefactorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefactorView.swift; sourceTree = "<group>"; };
+		7AD9AAEA2D31CEEE0095336E /* BindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingView.swift; sourceTree = "<group>"; };
+		7AD9AAEC2D31D3920095336E /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
+		7AD9AAEE2D32BF0A0095336E /* TransitionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,10 +102,13 @@
 				7AD9AADE2D2C8C640095336E /* SpacerView.swift */,
 				7AD9AAE02D2C8F7E0095336E /* ScrollView.swift */,
 				7AD9AAC02D2C14A70095336E /* Assets.xcassets */,
-				7AD9AAC22D2C14A70095336E /* Preview Content */,
 				7AD9AAE22D2D4B710095336E /* GridView.swift */,
 				7AD9AAE62D2D714B0095336E /* ButtonView.swift */,
 				7AD9AAE82D2D78800095336E /* RefactorView.swift */,
+				7AD9AAEA2D31CEEE0095336E /* BindingView.swift */,
+				7AD9AAEC2D31D3920095336E /* AnimationView.swift */,
+				7AD9AAEE2D32BF0A0095336E /* TransitionView.swift */,
+				7AD9AAC22D2C14A70095336E /* Preview Content */,
 			);
 			path = "SwiftUI StarterPack";
 			sourceTree = "<group>";
@@ -190,9 +199,12 @@
 				7AD9AABF2D2C14A50095336E /* ContentView.swift in Sources */,
 				7AD9AADD2D2C80DC0095336E /* PaddingView.swift in Sources */,
 				7AD9AAD12D2C2A300095336E /* GradientView.swift in Sources */,
+				7AD9AAEB2D31CEEE0095336E /* BindingView.swift in Sources */,
+				7AD9AAED2D31D3920095336E /* AnimationView.swift in Sources */,
 				7AD9AAD92D2C4CE30095336E /* BackGroundAndOverlayView.swift in Sources */,
 				7AD9AAD72D2C34A50095336E /* FrameView.swift in Sources */,
 				7AD9AACD2D2C19F50095336E /* ShapeView.swift in Sources */,
+				7AD9AAEF2D32BF0A0095336E /* TransitionView.swift in Sources */,
 				7AD9AAD52D2C304D0095336E /* ImagesView.swift in Sources */,
 				7AD9AADB2D2C7E050095336E /* StacksView.swift in Sources */,
 				7AD9AABD2D2C14A50095336E /* SwiftUI_StarterPackApp.swift in Sources */,
